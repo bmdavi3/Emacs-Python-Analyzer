@@ -1,3 +1,4 @@
 install pylint, pyflakes, pep8
 cp pycheckers /usr/bin/
+chmod +x /usr/bin/pycheckers
 Tack init.el onto to your init.el
