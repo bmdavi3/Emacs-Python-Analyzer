@@ -1,3 +1,4 @@
 install pylint, pyflakes, pep8
 cp pycheckers /usr/bin/
+Get flymake-cursor.el and save it as ~/.emacs.d/vendor/flymake-cursor.el
 Tack init.el onto to your init.el
